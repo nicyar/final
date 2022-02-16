@@ -1,0 +1,1 @@
+no-repeat y background-size:cover 
